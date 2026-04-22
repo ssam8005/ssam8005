@@ -48,6 +48,7 @@ graph LR
 | [🚀 neural-gtm-sprint](https://github.com/ssam8005/neural-gtm-sprint) | Full methodology · SOW templates · discovery framework · gap analysis · anonymized case studies · Mermaid architecture diagrams |
 | [⚙️ n8n-revenue-automation](https://github.com/ssam8005/n8n-revenue-automation) | Production workflow library — Clay enrichment waterfall · CRM sync · HITL approval gates · outbound triggers · intent scoring |
 | [🧠 agentic-lead-scoring](https://github.com/ssam8005/agentic-lead-scoring) | Python + LangChain + LangGraph + Pinecone · RAG-based lead intelligence engine · stand-alone, production-ready |
+| [🎨 sammy-samet-portfolio](https://github.com/ssam8005/sammy-samet-portfolio) | Live demo artifacts — Clay GTM enrichment pipeline · n8n lead scorer with importable workflow JSON |
 
 ---
 
